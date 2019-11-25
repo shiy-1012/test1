@@ -1,3 +1,4 @@
 长沙刮妖风
 
 这是一个有趣的故事
+public void static main{}
